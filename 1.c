@@ -11,6 +11,7 @@ struct Stack {
 // Initialize stack top to -1 (empty)
 void initStack(struct Stack *s) {
     s->top = -1;
+	printf("this is a stack program and its initializations ")
 }
 
 // Check if stack is full
